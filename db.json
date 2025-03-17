@@ -1,0 +1,64 @@
+{
+  "videos": [
+    {
+      "caption": "HanumanKind Run it up",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MbJ72KO5khs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDXStogbgRdmA2YBjWZoxMHxNgwtA",
+      "embededLink": "https://www.youtube.com/embed/MbJ72KO5khs",
+      "id": 4
+    },
+    {
+      "caption": "Thriller",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sOnqjkJTMaA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkBnLkS7RWgKSxBdsIHywkt27SzQ",
+      "embededLink": "https://www.youtube.com/embed/sOnqjkJTMaA",
+      "id": 5
+    },
+    {
+      "caption": "BEAT IT",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oRdxUFDoQe0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPGGhv2O3RmxUjuzA0i5CypqtWfw",
+      "embededLink": "https://www.youtube.com/embed/oRdxUFDoQe0",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Hindi",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "English",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Malayalam",
+      "allVideos": [],
+      "id": 5
+    },
+    {
+      "categoryName": "Malayalam",
+      "allVideos": [],
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "caption": "BEAT IT",
+      "embededLink": "https://www.youtube.com/embed/oRdxUFDoQe0",
+      "timeStamp": "13-03-2025 12:20",
+      "id": 1
+    },
+    {
+      "caption": "BEAT IT",
+      "embededLink": "https://www.youtube.com/embed/oRdxUFDoQe0",
+      "timeStamp": "14-03-2025 12:00",
+      "id": 2
+    },
+    {
+      "caption": "Thriller",
+      "embededLink": "https://www.youtube.com/embed/sOnqjkJTMaA",
+      "timeStamp": "14-03-2025 12:00",
+      "id": 3
+    }
+  ]
+}
